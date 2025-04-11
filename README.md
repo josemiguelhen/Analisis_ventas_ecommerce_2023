@@ -47,7 +47,7 @@ El dashboard final incluye:
 - Ventas mensuales
 - Filtros interactivos por fecha, región y categoría
 
-<img src="ruta/de/tu/imagen_dashboard.png" alt="Dashboard E-commerce Power BI" width="800"/>
+<img src="https://github.com/josemiguelhen/Analisis_ventas_ecommerce_2023/blob/main/Imagenes_dashboard/captura_dashboard1.png" alt="Dashboard E-commerce Power BI" width="800"/>
 
 ## 🔥 Mejoras futuras (Versión 2.0)
 
